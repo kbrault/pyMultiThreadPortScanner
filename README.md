@@ -1,4 +1,4 @@
-# pyThreadedPortScanner
+# pyMultiThreadPortScanner
 A simple python multithreaded port scanner
 
 # Usage
