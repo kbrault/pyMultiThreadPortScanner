@@ -11,4 +11,8 @@ threads_number = 200
 And run
 ``` sh
 $ .\python main.py
+
+1.1.1.1        :   80 open
+1.1.1.1        :   53 open
+1.1.1.1        :  443 open
 ```
